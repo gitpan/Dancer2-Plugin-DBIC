@@ -1,0 +1,16 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/Dancer2/Plugin/DBIC.pm
+t/01-single-schema.t
+t/02-multiple-schemas.t
+t/03-dynamic-schemas.t
+t/04-testapp.t
+t/lib/Foo.pm
+t/lib/Foo/Result/User.pm
+t/lib/TestApp.pm

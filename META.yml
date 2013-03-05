@@ -1,0 +1,24 @@
+---
+abstract: 'DBIx::Class interface for Dancer2 applications'
+author:
+  - 'Naveed Massjouni <naveedm9@gmail.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Dancer2-Plugin-DBIC
+recommends:
+  DBIx::Class::Schema::Loader: 0.07002
+requires:
+  DBIx::Class: 0
+  Dancer2: 1.3098
+  Module::Load: 0
+resources:
+  bugtracker: https://github.com/ironcamel/Dancer2-Plugin-DBIC/issues
+  repository: git://github.com/ironcamel/Dancer2-Plugin-DBIC.git
+version: 0.0001
