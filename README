@@ -2,7 +2,7 @@ NAME
     Dancer2::Plugin::DBIC - DBIx::Class interface for Dancer2 applications
 
 VERSION
-    version 0.0004
+    version 0.0005
 
 SYNOPSIS
         use Dancer2;
@@ -147,6 +147,8 @@ CONTRIBUTORS
     *   Dagfinn Ilmari Mannsåker <<https://github.com/ilmari>>
 
     *   David Precious <davidp@preshweb.co.uk>
+
+    *   ennio <<https://github.com/scriplit>>
 
     *   Fabrice Gabolde <<https://github.com/fgabolde>>
 

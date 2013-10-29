@@ -1,6 +1,6 @@
 package Dancer2::Plugin::DBIC;
 
-our $VERSION = '0.0004'; # VERSION
+our $VERSION = '0.0005'; # VERSION
 
 use strict;
 use warnings;
@@ -78,7 +78,7 @@ Dancer2::Plugin::DBIC - DBIx::Class interface for Dancer2 applications
 
 =head1 VERSION
 
-version 0.0004
+version 0.0005
 
 =head1 SYNOPSIS
 
@@ -246,6 +246,10 @@ Dagfinn Ilmari Mannsåker <L<https://github.com/ilmari>>
 =item *
 
 David Precious <davidp@preshweb.co.uk>
+
+=item *
+
+ennio <L<https://github.com/scriplit>>
 
 =item *
 
