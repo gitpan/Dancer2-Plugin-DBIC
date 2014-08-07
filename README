@@ -2,7 +2,7 @@ NAME
     Dancer2::Plugin::DBIC - DBIx::Class interface for Dancer2 applications
 
 VERSION
-    version 0.0005
+    version 0.0006
 
 SYNOPSIS
         use Dancer2;
@@ -53,7 +53,7 @@ CONFIGURATION
               dsn: dbi:mysql:foo
               schema_class: Foo::Schema
               user: bob
-              pass: secret
+              password: secret
               options:
                 RaiseError: 1
                 PrintError: 1
@@ -74,8 +74,9 @@ CONFIGURATION
 
     The schema_class option, should be a proper Perl package name that
     Dancer2::Plugin::DBIC will use as a DBIx::Class::Schema class.
-    Optionally, a database configuation may have user, pass, and options
-    parameters as described in the documentation for "connect()" in DBI.
+    Optionally, a database configuration may have user, password, and
+    options parameters as described in the documentation for "connect()" in
+    DBI.
 
     You may also declare your connection information in the following format
     (which may look more familiar to DBIC users):

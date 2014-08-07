@@ -1,0 +1,122 @@
+==================================================
+Changes from 2004-08-09 00:00:00 +0000 to present.
+==================================================
+
+-------------------------------------------
+version 0.0006 at 2014-08-07 06:13:22 +0000
+-------------------------------------------
+
+  Change: 4e2ed1e5f02cb746b13db5044d07e2f67bc29e21
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-08-07 02:11:58 +0000
+
+    releasing v0.0006 
+
+  Change: 894045d93cf00516dab32cd9057ff7e725f20fde
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-08-07 00:05:44 +0000
+
+    :no_dsl 
+
+  Change: 3e180bc86d854f04011e372a0f05c500966c56c8
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-08-06 23:54:14 +0000
+
+    deprecated the pass option in favor of password 
+
+  Change: fa406b1b82fb5eaf4a7aef3f13d5d144b1b005d8
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-03-20 12:53:00 +0000
+
+    Merge pull request #4 from dsteinbrunner/patch-1
+
+    typo fix 
+
+  Change: 2bcad86f540318db9593a1a22df6c7f6bff396bb
+  Author: David Steinbrunner <dsteinbrunner@pobox.com>
+  Date : 2014-03-20 12:42:39 +0000
+
+    typo fix 
+
+  Change: 925dbd84b1770b0e8374361f87f47c6a08f47188
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-10-29 13:01:45 +0000
+
+    Releasing version 0.0005 
+
+  Change: d3b0a1c072c0d27e02d96bffa7b2e64302eec60d
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-10-08 00:28:21 +0000
+
+    Merge pull request #2 from scriplit/master
+
+    Removed :tests in import 
+
+  Change: 48084c2945d8cf2dd96c484dc5927da3b6f5fa9e
+  Author: scriplit <scriplit@yahoo.com>
+  Date : 2013-10-08 08:34:00 +0000
+
+    Removed :tests in import (Dancer2 issue GH#417) 
+
+  Change: 556bc1a53648365cd26eb844a6fec526764c2dd7
+  Author: scriplit <scriplit@yahoo.com>
+  Date : 2013-10-08 08:33:05 +0000
+
+    Removed :tests in import (Dancer2 issue GH#417) 
+
+  Change: 475abcd24b29965e843512a49f350d3ed1e8d775
+  Author: scriplit <scriplit@yahoo.com>
+  Date : 2013-10-08 08:32:32 +0000
+
+    Removed :tests in import (Dancer2 issue GH#417) 
+
+  Change: a93cb019f9253b2a538dd6f9dd683c95815ff8e2
+  Author: scriplit <scriplit@yahoo.com>
+  Date : 2013-10-08 08:31:22 +0000
+
+    Removed :tests in import (Dancer2 issue GH#417) 
+
+  Change: 9dd1ee861c42a978f959d0420676ef6480885ecc
+  Author: scriplit <scriplit@yahoo.com>
+  Date : 2013-10-08 08:29:52 +0000
+
+    Update 01-single-schema.t
+
+    https://github.com/PerlDancer/Dancer2/issues/417 
+
+  Change: a4a054c219ee3c1b99541618e13b867ccfe3387f
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-09-12 02:32:49 +0000
+
+    v0.0004 Fixed tests again. Seems like Dancer2 removed the :syntax
+    import option. 
+
+  Change: 1274ed4e71e25390a3937d768d7bda3ef3b94ebf
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-07-25 03:23:01 +0000
+
+    Fixed tests. Version 0.0003 
+
+  Change: 9ca1529eb019c378bfbdc43ea26d7e65c56909da
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-05-16 06:13:58 +0000
+
+    Merge pull request #1 from ironcamel/fix-dancer2-req
+
+    No longer require a specific version of Dancer2 
+
+  Change: c55624cfdffffe10f9b7088cce53dd3f69ec2ee9
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-05-16 09:12:37 +0000
+
+    No longer require a specific version of Dancer2. 
+
+  Change: c8d7d42b8fbc2a31c099f33c043c0c7938f75344
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2013-03-05 15:19:36 +0000
+
+    First commit 
+
+================
+End of releases.
+================
