@@ -1,10 +1,30 @@
 ==================================================
-Changes from 2004-08-09 00:00:00 +0000 to present.
+Changes from 2004-11-04 00:00:00 +0000 to present.
 ==================================================
 
 -------------------------------------------
-version 0.0006 at 2014-08-07 06:13:22 +0000
+version 0.0007 at 2014-11-02 19:03:52 +0000
 -------------------------------------------
+
+  Change: d8ee5bf271afaaa740771984c7e528c98c2563da
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-11-02 14:03:52 +0000
+
+    v0.0007 
+
+  Change: c8840c4ad890aa1b1631058916e0697e293b688d
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-11-02 12:16:50 +0000
+
+    Merge pull request #7 from stefansbv/pr/testupd
+
+    Switch to 'Plack::Test' ('Dancer2::Test' is deprecated). 
+
+  Change: a5b31bddd2a7f1bd538bc63b08175e5015149ad9
+  Author: Stefan Suciu <stefbv70@gmail.com>
+  Date : 2014-11-02 17:37:52 +0000
+
+    Switch to 'Plack::Test' ('Dancer2::Test' is deprecated). 
 
   Change: 4e2ed1e5f02cb746b13db5044d07e2f67bc29e21
   Author: Naveed Massjouni <naveedm9@gmail.com>
