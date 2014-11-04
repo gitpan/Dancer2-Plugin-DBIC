@@ -1,6 +1,19 @@
 ==================================================
-Changes from 2004-11-04 00:00:00 +0000 to present.
+Changes from 2004-11-06 00:00:00 +0000 to present.
 ==================================================
+
+-------------------------------------------
+version 0.0008 at 2014-11-04 02:37:18 +0000
+-------------------------------------------
+
+  Change: 49591c136640f529d9c88395eff80f482f048329
+  Author: Naveed Massjouni <naveedm9@gmail.com>
+  Date : 2014-11-03 21:35:36 +0000
+
+    v0.0008 require recent version of Dancer2
+
+    Some cpantester tests were failing because they were running against
+    a too old version of Dancer2. 
 
 -------------------------------------------
 version 0.0007 at 2014-11-02 19:03:52 +0000
